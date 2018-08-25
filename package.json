@@ -1,0 +1,14 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Website Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "saas": "node-sass -w scss/ -o dist/css/ --recursive "
+  },
+  "author": "Komal Kumra",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
